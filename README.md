@@ -1,2 +1,1 @@
-# PythonProject
-This contains python projects i have done so far
+This is a 2025 software developer survey report that was conducted on Stack Overflow. This survey was answered by over 50,000 computer programmers, as they were asked questions like work experience, level of coding, if they prefer working remotely or on-site, their level of education, how they learnt coding, if they took professional courses in other to learn. I used Python programming language in performing some data cleaning and data transformation in this project.
